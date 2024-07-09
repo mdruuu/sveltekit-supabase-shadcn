@@ -5,10 +5,14 @@
 
 
 </script>
-<div class="bg-red-500">
-    TEST 
-</div>
 
-<Button>Click Me</Button>
-<SvelteLogo style="font-size:2em" />
-<PhShoppingCartBold style="font-size:2em" />
+<h1>Welcome to SvelteKit</h1>
+This blank project is made with the folowing: 
+<ul>
+    <li>SvelteKit-Typescript Svelte 4.0</li>
+    <li>Tailwind CSS</li>
+    <li>Shadcn-Svelte</li>
+    <li>Supaase</li>
+    <li>Unplugin-icons</li>
+    <li>Zod</li>
+</ul>
